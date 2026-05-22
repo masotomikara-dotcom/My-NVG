@@ -1,7 +1,5 @@
 name: Build Android APK
 
-# Kích hoạt workflow mỗi khi có hành động PUSH vào nhánh main
-on:
   push:
     branches: [ "main" ]
   pull_request:
