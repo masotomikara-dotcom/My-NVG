@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    compileSdk 34
+    compileSdk 31
 
     defaultConfig {
         applicationId "com.app.nvg"
         minSdk 26
-        targetSdk 34
+        targetSdk 31
         versionCode 1
         versionName "1.0"
     }
