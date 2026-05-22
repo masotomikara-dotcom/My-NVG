@@ -9,10 +9,10 @@
         android:theme="@android:style/Theme.DeviceDefault.NoActionBar"> <activity android:name=".MainActivity" android:eport="true">
         <intent-filter>
         <activity android:name=".MainActivity" android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+             <intent-filter>
+    <action android:name="android.intent.action.MAIN" />
+    <category android:name="android.intent.category.LAUNCHER" />
+</intent-filter>
         </activity>
 
     </application>
